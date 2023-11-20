@@ -1,0 +1,191 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif&display=swap');
+*{
+    margin: 0%;
+}
+header{
+    background-color: rgb(176, 196, 177);
+}
+
+.imagengato{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+
+.menu{
+    padding-left: 50%;
+    padding-top: 19px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.men{
+    padding-left: 90px;
+}
+
+
+
+nav ul{
+    list-style: none;
+    display: flex;
+   
+    
+
+}
+nav a{
+    color: white;
+    text-decoration: none;
+    text-decoration-style: none;
+    font-family: 'Noto Serif', serif;
+    justify-content: space-between;
+    font-size: 3vh;
+    
+}
+
+nav a:hover{
+    color:rgb(237, 175, 184);
+}
+
+h1{
+    text-align: center;
+    font-family: 'Noto Serif', serif;
+    font-size: 18pt;
+    margin-top: 15px;
+}
+
+.contenedorgeneral{
+    margin-top: 60px;
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.contenedor1{
+    margin-left: 80px;
+    margin-right: 20px;
+} 
+
+.contenedor1 p{
+    font-family: 'Noto Serif', serif;
+    text-align: center;
+}
+.contenedor2{
+    margin-left: 30px;
+    margin-right: 30px;
+} 
+
+.contenedor2 p{
+    font-family: 'Noto Serif', serif;
+    text-align: center;
+}
+
+.contenedor3{
+    margin-left: 15px;
+    margin-right: 30px;
+} 
+
+.contenedor3 p{
+    font-family: 'Noto Serif', serif;
+    text-align: center;
+}
+.contenedor4{
+    margin-left: 20px;
+    margin-right: 80px;
+} 
+
+.contenedor4 p{
+    font-family: 'Noto Serif', serif;
+    text-align: center;
+}
+
+.contenedorgeneral2{
+    margin-top: 60px;
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+}
+.contenedor5{
+    margin-left: 80px;
+    margin-right: 20px;
+} 
+
+.contenedor5 p{
+    font-family: 'Noto Serif', serif;
+    text-align: center;
+}
+.contenedor6{
+    margin-left: 30px;
+    margin-right: 30px;
+} 
+
+.contenedor6 p{
+    font-family: 'Noto Serif', serif;
+    text-align: center;
+}
+
+.contenedor7{
+    margin-left: 15px;
+    margin-right: 30px;
+} 
+
+.contenedor7 p{
+    font-family: 'Noto Serif', serif;
+    text-align: center;
+}
+.contenedor8{
+    margin-left: 20px;
+    margin-right: 80px;
+} 
+
+.contenedor8 p{
+    font-family: 'Noto Serif', serif;
+    text-align: center;
+}
+
+
+/*contenedor3*/
+.contenedorgeneral3{
+    margin-top: 60px;
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+}
+.contenedor9{
+    margin-left: 80px;
+    margin-right: 20px;
+} 
+
+.contenedor9 p{
+    font-family: 'Noto Serif', serif;
+    text-align: center;
+}
+.contenedor10{
+    margin-left: 30px;
+    margin-right: 30px;
+} 
+
+.contenedor10 p{
+    font-family: 'Noto Serif', serif;
+    text-align: center;
+}
+
+.contenedor11{
+    margin-left: 15px;
+    margin-right: 30px;
+} 
+
+.contenedor11 p{
+    font-family: 'Noto Serif', serif;
+    text-align: center;
+}
+.contenedor12{
+    margin-left: 20px;
+    margin-right: 80px;
+} 
+
+.contenedor12 p{
+    font-family: 'Noto Serif', serif;
+    text-align: center;
+}
